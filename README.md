@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-━━°❀❬ Bini gwej ❭❀°━━
+━━°❀❬ RIMURU 🧿 ❭❀°━━
 
-- Shuna 🌸
-- Shion 🍇
+- SHUNA 🌸
+- SHION 🍇
 
 </p>
 
