@@ -7,7 +7,7 @@
 <p align="center">
 ━━°❀❬ 𝐒𝐇𝐔𝐍𝐀 🌸❭❀°━━
 <img src="https://i.ibb.co/sjbZd4y/download.gif" />
-  ━━°❀❬ 𝐒𝐇𝐈𝐎𝐍 🍇❭❀°━━
+  ━━°❀❬ 𝐒𝐇𝐈𝐎𝐍 🍇❭❀°━━ 
 <img src="https://i.ibb.co/KLTbGpW/tumblr-puef9d8-Yyx1r2rp33o2-540.gif" />
 </p>
 
