@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-
-- Rimuru Tempest 🧿
+┏━━°❀❬ Bini gwej ❭❀°━━┓
 - Shuna 🌸
 - Shion 🍇
 
