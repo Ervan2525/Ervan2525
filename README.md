@@ -8,7 +8,7 @@
 ━━°❀❬ 𝐒𝐇𝐔𝐍𝐀 🌸❭❀°━━
 <img src="https://i.ibb.co/sjbZd4y/download.gif" />
 ━━°❀❬ 𝐒𝐇𝐈𝐎𝐍 🍇❭❀°━━
-
+<img src="https://i.ibb.co/sjbZd4y/download.gif" />
 </p>
 
 ------
