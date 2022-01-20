@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-┏━━°❀❬ Bini gwej ❭❀°━━┓
+━━°❀❬ Bini gwej ❭❀°━━
 
 - Shuna 🌸
 - Shion 🍇
