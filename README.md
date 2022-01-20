@@ -8,6 +8,7 @@
 
 - SHUNA 🌸
 - SHION 🍇
+<img src="https://i.ibb.co/k9yq2Yg/images.jpg" />
 
 </p>
 
