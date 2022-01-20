@@ -6,7 +6,8 @@
 <p align="center">
 ━━°❀❬ RIMURU 🧿 ❭❀°━━
 
-- SHUNA 🌸      • SHION 🍇
+- 𝐒𝐇𝐔𝐍𝐀 🌸 
+- 𝐒𝐇𝐈𝐎𝐍 🍇
 <img src="https://i.ibb.co/nR4yjrs/tumblr-0074a9f4f69e7ec930cf41137fa7290d-66df06fd-640.gif" />
 
 </p>
