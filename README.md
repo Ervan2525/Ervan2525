@@ -22,3 +22,46 @@
   <a href="https://tiktok.com/@rimuru_kingdom"><img src="https://img.shields.io/badge/-Tiktok-black?style=flat-square&logo=tiktok" /> 
   <a href="https://youtu.be/ZjVRYfi7dhs"><img src="https://img.shields.io/badge/YouTube-Ervan-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQV7cLK7IY_MRMHH4phQORQ" /><br>
 </p>
+<!-- First Badge -->
+| [![Github Stats][readme-stats]][github] | [![Trophy Cards][trophys]][github] |
+| :-------------------------------------: | :--------------------------------: |
+
+<!-- Seconds Badge -->
+| [![Top Langs][top-langs]][github]  | [![Streak Stats][streaks]][github] |
+| :--------------------------------: | :--------------------------------: |
+
+<!-- Third Badges -->
+| [![Contribution Graph][contribution-graph]][github] |
+| :-------------------------------------------------: |
+
+<!-- VARIABLES -->
+
+<!-- links only -->
+[github]: https://github.com/lendradx
+[instagram]: https://instagram.com/lendradxx
+[twitter]: https://twitter.com/lendradxx
+<!-- end of links only -->
+
+<!-- platforms & tools badge -->
+[linux]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black "Linux"
+[manjaro]: https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white "Manjaro"
+[vscode]: https://img.shields.io/badge/Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "VSCode"
+[vim]: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white "Vim"
+
+<!-- frameworks & runtimes badges -->
+[nodejs]: https://img.shields.io/badge/node.js-%2311AB00.svg?style=for-the-badge&logo=node.js&logoColor=white "Node.JS"
+[c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white "C"
+[python]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white "Python"
+
+<!-- biggest badge -->
+[readme-stats]: https://github-readme-stats.vercel.app/api?username=lendradx&theme=react&show_icons=true&hide_border=true "Github Stats"
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=lendradx&layout=compact&theme=react&hide_border=true "Top Langs"
+[trophys]: https://github-profile-trophy.vercel.app/?username=lendradx&theme=discord&column=3&margin-w=8&margin-h=8&no-frame=true "Trophy Cards"
+[contribution-graph]: https://activity-graph.herokuapp.com/graph?username=lendradx&theme=react-dark&hide_border=true&custom_title=Contribution%20of%20the%20Year "Contribution Graph"
+[streaks]: https://github-readme-streak-stats.herokuapp.com?user=lendradx&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D "Streak Stats"
+<!-- end of biggest badge -->
+
+<!-- end of VARIABLES -->
+
+<!-- 
+-->
