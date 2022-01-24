@@ -28,16 +28,12 @@
 | [![Top Langs][top-langs]][github]  | [![Streak Stats][streaks]][github] |
 | :--------------------------------: | :--------------------------------: |
 
-<!-- Third Badges -->
-| [![Contribution Graph][contribution-graph]][github] |
-| :-------------------------------------------------: |
-
 <!-- VARIABLES -->
 
 <!-- links only -->
-[github]: https://github.com/lendradx
-[instagram]: https://instagram.com/lendradxx
-[twitter]: https://twitter.com/lendradxx
+[github]: https://github.com/Ervan2525
+[instagram]: https://instagram.com/ervan2525
+[twitter]: https://twitter.com/ervan2525
 <!-- end of links only -->
 
 <!-- platforms & tools badge -->
