@@ -23,10 +23,6 @@
   <a href="https://youtu.be/ZjVRYfi7dhs"><img src="https://img.shields.io/badge/YouTube-Ervan-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQV7cLK7IY_MRMHH4phQORQ" /><br>
 </p>
 
-<!-- Seconds Badge -->
-| [![Top Langs][top-langs]][github]  | [![Streak Stats][streaks]][github] |
-| :--------------------------------: | :--------------------------------: |
-
 <!-- VARIABLES -->
 
 <!-- links only -->
