@@ -22,7 +22,6 @@
   <a href="https://tiktok.com/@rimuru_kingdom"><img src="https://img.shields.io/badge/-Tiktok-black?style=flat-square&logo=tiktok" /> 
   <a href="https://youtu.be/ZjVRYfi7dhs"><img src="https://img.shields.io/badge/YouTube-Ervan-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCQV7cLK7IY_MRMHH4phQORQ" /><br>
 </p>
-<!-- First Badge -->
 
 <!-- Seconds Badge -->
 | [![Top Langs][top-langs]][github]  | [![Streak Stats][streaks]][github] |
